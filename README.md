@@ -1,0 +1,1 @@
+Provides a few more opinionated zap logger configurations beyond the ones provided by [zap](https://godoc.org/go.uber.org/zap)'s package.
